@@ -1,11 +1,13 @@
 ---
 layout: default
 modal-id: 4
+title: The Circle Newspaper Archive
 date: 2014-07-15
-img: game.png
-alt: image-alt
-project-date: April 2014
-client: Start Bootstrap
-category: Web Development
-description: Use this area of the page to describe your project. Lorem ipsum dolor sit amet, consectetur adipisicing elit. Mollitia neque assumenda ipsam nihil, molestias magnam, recusandae quos quis inventore quisquam velit asperiores, vitae? Reprehenderit soluta, eos quod consequuntur itaque. Nam.
+img: circle.png
+alt: Image of the Circle website homepage
+project-date: September 2021
+project: The Circle Newspaper Archive
+link: https://exhibits.archives.marist.edu/s/circle/page/about
+tech: Omeka S, Universal Viewer, Python
+description: The Circle Student Newspaper Archive contains all editions of the Marsit College student newspaper. Each edition can be viewed online, searched, or downloaded using the Universal Viewer, an open source project that implements the IIIF protocol. The historical data for the project came from contracting out the scanning of saved paper versions. Current versions of the Marist Circle, which is now an online-first publication, are harvested using a Python script.  
 ---

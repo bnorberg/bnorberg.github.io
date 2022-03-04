@@ -1,11 +1,13 @@
 ---
 layout: default
 modal-id: 1
+title: Marist College Library
 date: 2014-07-18
-img: cabin.png
-alt: image-alt
-project-date: April 2014
-client: Start Bootstrap
-category: Web Development
-description: Use this area of the page to describe your project. Lorem ipsum dolor sit amet, consectetur adipisicing elit. Mollitia neque assumenda ipsam nihil, molestias magnam, recusandae quos quis inventore quisquam velit asperiores, vitae? Reprehenderit soluta, eos quod consequuntur itaque. Nam.
+img: maristlib.png
+alt: image of Marist Library website
+project-date: January 2021
+project: Marist College Library
+link: https://library.marist.edu/
+tech: PHP, HTML, CSS, JavaScript
+description: Redesign of Marist College Library website completed January 2021. The site ties together the library's site with 2 other 3rd party applications the libary uses to delivery content, LibGuides and Primo, through CSS and JavaScript to make it appear as one coherent site.
 ---

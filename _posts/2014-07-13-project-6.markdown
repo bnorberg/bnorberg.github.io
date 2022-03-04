@@ -1,11 +1,13 @@
 ---
 layout: default
 modal-id: 6
+title: Kingdom of Sicily Map
 date: 2014-07-15
-img: submarine.png
-alt: image-alt
-project-date: April 2014
-client: Start Bootstrap
-category: Web Development
-description: Use this area of the page to describe your project. Lorem ipsum dolor sit amet, consectetur adipisicing elit. Mollitia neque assumenda ipsam nihil, molestias magnam, recusandae quos quis inventore quisquam velit asperiores, vitae? Reprehenderit soluta, eos quod consequuntur itaque. Nam.
+img: kos.png
+alt: KOS searh map
+project-date: May 2018
+project: Kingdom of Sicily Map
+link: https://kos.aahvs.duke.edu/pages/map-kingdom-sicily
+tech: Sequel Pro, Google Maps API, JavaScript, Qgis
+description: The Kingdom of Sicily is an appliation to crowd-source, collect, host and display images made by travelers, mapmakers, historians, architects and artists of medieval and early modern cities in Southern Italy. The site was built by various faculty and IT staff at Duke University using Sequel Pro. The map was added on after the database was created using HTML, CSS, JavaScript, and Google Maps API and is meant to offer site visitor an alternative way of searching the database. The roman roads layer, which displays how people would have travelled during this period, was a vector file created and serialized as GeoJSON using Qgis.
 ---

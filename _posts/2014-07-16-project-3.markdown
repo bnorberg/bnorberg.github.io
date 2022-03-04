@@ -1,11 +1,13 @@
 ---
 layout: default
 modal-id: 3
+title: HWL Dashboard
 date: 2014-07-16
-img: circus.png
-alt: image-alt
-project-date: April 2014
-client: Start Bootstrap
-category: Web Development
-description: Use this area of the page to describe your project. Lorem ipsum dolor sit amet, consectetur adipisicing elit. Mollitia neque assumenda ipsam nihil, molestias magnam, recusandae quos quis inventore quisquam velit asperiores, vitae? Reprehenderit soluta, eos quod consequuntur itaque. Nam.
+img: hwl_stats.png
+alt: Chord graph of Humanities Writ Large department collaboration
+project-date: June 2016
+project: HWL Dashboard
+link: https://bnorberg.github.io/hwlstats/
+tech: Jekyll, D3.js, Ruby
+description: Visualization dashboard of activity completed during the Mellon Foundation grant, Humanities Writ Large, at Duke University. The data for the dashboard came from an export from the <a href="https://humanitieswritlarge.duke.edu/">HWL</a> site that was converted to the necessary csv structure for the visualization with Ruby. The dashboard was used to show the impact of the grant and to identify fruitful partnerships and structure that could be explored in the next grant.
 ---

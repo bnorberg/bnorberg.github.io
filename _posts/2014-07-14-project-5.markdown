@@ -1,11 +1,13 @@
 ---
 layout: default
 modal-id: 5
+title: Sonic Dictionary
 date: 2014-07-14
-img: safe.png
-alt: image-alt
-project-date: April 2014
-client: Start Bootstrap
-category: Web Development
-description: Use this area of the page to describe your project. Lorem ipsum dolor sit amet, consectetur adipisicing elit. Mollitia neque assumenda ipsam nihil, molestias magnam, recusandae quos quis inventore quisquam velit asperiores, vitae? Reprehenderit soluta, eos quod consequuntur itaque. Nam.
+img: sd.png
+alt: Sonic Dictionary homepage
+project-date: February 2017
+project: Sonic Dictionary
+link: https://sonicdictionary.duke.edu/
+tech: Omeka, Drupal, Ruby
+description: This website was built in collaboration with VCU Assistant Professor of English, Mary Caton Lingold, as a platform for her students, as well as students at other higher education institutions, to collect and  study sound artifacts to better understand our changing culture. The site is build in Drupal and integrates the InCommon federated single-signon identity management service. Sonic Dictionary was originally built using Omeka. Ruby was used to export content from the Omeka API (<a href="https://github.com/bnorberg/omeka_export">code</a>) in a data structure that could be ingested by the Drupal Feeds module.  
 ---

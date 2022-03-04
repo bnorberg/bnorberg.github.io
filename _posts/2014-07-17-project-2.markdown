@@ -1,11 +1,13 @@
 ---
 layout: default
 modal-id: 2
+title: CNA Project
 date: 2014-07-17
-img: cake.png
-alt: image-alt
-project-date: April 2014
-client: Start Bootstrap
-category: Web Development
-description: Use this area of the page to describe your project. Lorem ipsum dolor sit amet, consectetur adipisicing elit. Mollitia neque assumenda ipsam nihil, molestias magnam, recusandae quos quis inventore quisquam velit asperiores, vitae? Reprehenderit soluta, eos quod consequuntur itaque. Nam.
+img: cna_project.png
+alt: Image of street in Senegal
+project-date: March 2017
+project: Cinéma Numérique Ambulant
+link: https://bnorberg.github.io/ahs/2017/03/10/cna.html
+tech: Jekyll, D3, Python, Natural Language Toolkit, Carto
+description: Web publication of work on the mobile cinema NGO, Cinéma Numérique Ambulant (CNA), done in collaboratuon with Willamette University Professor of French and Fancophone Studies, Amadou Fofana. The site descibes the history of cinema in West Africa and compares the activity of CNA with historical records of cinema locations. Historical cinema locations and CNA movement were collected by using NLTK to identify places mentioned in historical texts of cinema in West Africa and in CNA's tweets. The maps were created with D3.js and Carto.
 ---
